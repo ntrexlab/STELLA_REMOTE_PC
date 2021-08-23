@@ -1,0 +1,10 @@
+<launch>
+	<include file="$(find stella_md)/launch/stella_mwdriver.launch">
+	</include>
+	<include file="$(find stella_ahrs)/launch/stella_imu.launch">
+	</include>
+	<include file="$(find ydlidar)/launch/stella_lds.launch">
+	</include>
+	<!--include file="$(find realsense2_camera)/launch/rs_camera.launch"-->
+	<!--/include-->
+</launch>
