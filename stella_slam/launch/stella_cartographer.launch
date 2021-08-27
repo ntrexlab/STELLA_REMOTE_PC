@@ -24,5 +24,5 @@
   <node pkg="stella_slam" type="flat_world_imu_node" name="flat_world_imu_node" output="screen"-->
     <remap from="imu_in" to="/imu" />
     <remap from="imu_out" to="/flat_imu" />
-  <!--/node-->
+  </node>
 </launch>
