@@ -4,7 +4,7 @@
   <version>0.0.0</version>
   <description>The stella_bringup package</description>
 
-  <maintainer email="jun928@ntrex.co.kr">ntrex</maintainer>
+  <maintainer email="lab@ntrex.co.kr">ntrex</maintainer>
   <license>Apache 2.0</license>
   <!-- The *depend tags are used to specify dependencies -->
   <!-- Dependencies can be catkin packages or system dependencies -->
