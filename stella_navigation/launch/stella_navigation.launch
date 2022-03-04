@@ -3,7 +3,7 @@
   <arg name="map_file" default="$(find stella_navigation)/maps/map.yaml"/>
   <arg name="open_rviz" default="true"/>
 
-  <!-- Turtlebot3 -->
+  <!-- STELLA -->
   <include file="$(find stella_bringup)/launch/stella_remote.launch">
   </include>
 
