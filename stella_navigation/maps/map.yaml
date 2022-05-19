@@ -1,4 +1,4 @@
-image: /home/ntrex/catkin_ws/src/STELLA/stella_navigation/maps/map.pgm
+image: /home/ntrex/catkin_ws/src/STELLA_REMOTE_PC/stella_navigation/maps/map.pgm
 resolution: 0.050000
 origin: [-3.500000, -2.150000, 0.000000]
 negate: 0
