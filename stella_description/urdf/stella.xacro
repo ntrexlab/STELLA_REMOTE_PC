@@ -52,7 +52,7 @@
   <joint name="scan_joint" type="fixed">
     <parent link="base_link"/>
     <child link="base_scan"/>
-    <origin xyz="${bodyLength/2 - 0.075} 0 0.229" rpy="0 0 ${PI}"/>
+    <origin xyz="${bodyLength/2 - 0.075} 0 0.248" rpy="0 0 ${PI}"/>
   </joint>
 
   <link name="base_scan" />
